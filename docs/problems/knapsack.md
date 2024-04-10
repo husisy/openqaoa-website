@@ -49,7 +49,7 @@ knapsack_qubo = knapsack_prob.qubo
 We can then access the underlying cost hamiltonian 
 
 ```Python
-knapsack.qubo.hamiltonian.expression
+knapsack_qubo.hamiltonian.expression
 ```
 
 $$
